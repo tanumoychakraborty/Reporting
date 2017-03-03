@@ -1,0 +1,191 @@
+
+        {% extends 'dashboard/template.html' %}
+        
+        {% block content %}
+        {% load dashboard_extras %}
+        
+        <div class="">
+
+            <div class="clearfix"></div>
+
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_content">
+                    <div class="form-group">
+                        <label class="control-label col-md-3 col-sm-3 col-xs-12">{{opco}} :</label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                          <label>{{arc.exec_count.env_opco_app.app_list.opco}}</label>
+                        </div>
+                    </div>
+
+                  </div>
+                </div>
+            </div>
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_content">
+                    <div class="form-group">
+                        <label class="control-label col-md-3 col-sm-3 col-xs-12">{{app}} :</label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                          <label>{{arc.exec_count.env_opco_app.app_list.app}}</label>
+                        </div>
+                    </div>
+
+                  </div>
+                </div>
+            </div>
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_content">
+                    <div class="form-group">
+                        <label class="control-label col-md-3 col-sm-3 col-xs-12">{{env}} :</label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                          <label>{{arc.exec_count.env_opco_app.env}}</label>
+                        </div>
+                    </div>
+
+                  </div>
+                </div>
+            </div>          
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_content">
+                    <div class="form-group">
+                        <label class="control-label col-md-3 col-sm-3 col-xs-12">{{no}} :</label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                          <label>{{arc.build_detail.build_no}}</label>
+                        </div>
+                    </div>
+
+                  </div>
+                </div>
+            </div>  
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_content">
+                    <div class="form-group">
+                        <label class="control-label col-md-3 col-sm-3 col-xs-12">{{url}} :</label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                          <label>{{arc.build_detail.build_url}}</label>
+                        </div>
+                    </div>
+
+                  </div>
+                </div>
+            </div>
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_content">
+                    <div class="form-group">
+                        <label class="control-label col-md-3 col-sm-3 col-xs-12">{{stat}} :</label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                          <label>{{arc.build_detail.status}}</label>
+                        </div>
+                    </div>
+
+                  </div>
+                </div>
+            </div>
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_content">
+                    <div class="form-group">
+                        <label class="control-label col-md-3 col-sm-3 col-xs-12">{{ts}} :</label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                          <label>{{arc.build_detail.timestamp}}</label>
+                        </div>
+                    </div>
+
+                  </div>
+                </div>
+            </div>
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_content">
+                    <div class="form-group">
+                        <label class="control-label col-md-3 col-sm-3 col-xs-12">{{total}} :</label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                        {% with t=arc.exec_count.count.total %}
+                          <label>{{t}}</label>
+                            <div class="progress">
+                            {% if t == 0 %}
+                            <div class="progress-bar progress-bar-info" data-transitiongoal="0" style="width: 0%;" aria-valuenow="0"></div>
+                            {% else %}
+                            <div class="progress-bar progress-bar-info" data-transitiongoal="100" style="width: 100%;" aria-valuenow="100"></div>
+                            {% endif %}
+                            </div>
+                        </div>
+                    </div>
+
+                  </div>
+                </div>
+            </div>
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_content">
+                    <div class="form-group">
+                        <label class="control-label col-md-3 col-sm-3 col-xs-12">{{pass}} :</label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                          {% with v=arc.exec_count.count.right %}
+                          <label>{{v}}</label>
+                            <div class="progress">
+                            <div class="progress-bar progress-bar-success" data-transitiongoal="{{v|prc:t}}" style="width: {{v|prc:t}}%;" aria-valuenow="{{v|prc:t}}"></div>
+                            </div>
+                            {% endwith %}
+                        </div>
+                    </div>
+
+                  </div>
+                </div>
+            </div>
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_content">
+                    <div class="form-group">
+                        <label class="control-label col-md-3 col-sm-3 col-xs-12">{{fail}} :</label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                        {% with v=arc.exec_count.count.wrong %}
+                          <label>{{v}}</label>
+                            <div class="progress">
+                            <div class="progress-bar progress-bar-danger" data-transitiongoal="{{v|prc:t}}" style="width: {{v|prc:t}}%;" aria-valuenow="{{v|prc:t}}"></div>
+                            </div>
+                            {% endwith %}
+                        </div>
+                    </div>
+
+                  </div>
+                </div>
+            </div>
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_content">
+                    <div class="form-group">
+                        <label class="control-label col-md-3 col-sm-3 col-xs-12">{{ignore}} :</label>
+                        <div class="col-md-9 col-sm-9 col-xs-12">
+                        {% with v=arc.exec_count.count.ignore %}
+                            <label>{{v}}</label>
+                            <div class="progress">
+                            <div class="progress-bar progress-bar-warning" data-transitiongoal="{{v|prc:t}}" style="width: {{v|prc:t}}%;" aria-valuenow="{{v|prc:t}}"></div>
+                            </div>
+                            {% endwith %}
+                        </div>
+                    </div>
+
+                  </div>
+                </div>
+            </div>    
+            {% if t != 0 %}
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_content">
+                    <div class="form-group">
+                        <a href="/dashboard/automation-report/{{arc.build_detail.id}}"><h2><u>{{a_r_l}}</u></h2></a>
+                    </div>
+                  </div>
+                </div>
+            </div>  
+            {% endif %}       
+            {% endwith %} 
+        </div>
+
+        {% endblock %}

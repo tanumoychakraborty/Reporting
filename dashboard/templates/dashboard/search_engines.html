@@ -1,0 +1,70 @@
+
+        {% extends 'dashboard/template.html' %}
+        
+        {% block content %}
+            
+        <div class="">
+            <div class="row">
+              <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_title">
+                    <h2>{{s_e_d_t}} {{opco}} - {{app}} {{r_n}} {{env}}</h2>
+                    <div class="clearfix"></div>
+                  </div>
+                  <div class="x_content">
+                    <table class="table table-hover">
+                      <thead>
+                        <tr>
+                          <th>#</th>
+                          <th>{{search_engine}}</th>
+                          <th>{{stat}}</th>
+                          <th>{{env_type}}</th>
+                          <th>{{p_project}}</th>
+                          <th>{{index}}</th>
+                          <th>{{d_index}}</th>
+                          <th>{{h_count}}</th>
+                          <th>{{e_count}}</th>
+                          <th>{{r_engine}}</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                      {% for detail in details %}
+                        <tr>
+                          <th scope="row">{{forloop.counter}}</th>
+                          <td>{{detail.name}}</td>
+                          {% if detail.desc != None %}
+                              {% if detail.desc.RunningEngineCount == "0" %}
+                              <th><div class="bg-red">{{stopped}}</div></th>
+                              {% elif detail.desc.EngineCount > detail.desc.RunningEngineCount %}
+                              <th><div class="bg-orange">{{n_a_running}}</div></th>
+                              {% elif detail.desc.EngineCount == detail.desc.RunningEngineCount %}
+                              <th><div class="bg-green">{{running}}</div></th>
+                              {% endif %}
+                              <th>{{detail.desc.EnvType}}</th>
+                              <th>{{detail.desc.ParentProject}}</th>
+                              <th>{{detail.desc.Index}}</th>
+                              <th>{{detail.desc.DeployingIndex}}</th>
+                              <th>{{detail.desc.HostCount}}</th>
+                              <th>{{detail.desc.EngineCount}}</th>
+                              <th>{{detail.desc.RunningEngineCount}}</th>
+                          {% else %}
+                              <th><div class="bg-red">{{not_configuered}}</div></th>
+                              <th>{{not_configuered}}</th>
+                              <th>{{not_configuered}}</th>
+                              <th>{{not_configuered}}</th>
+                              <th>{{not_configuered}}</th>
+                              <th>{{not_configuered}}</th>
+                              <th>{{not_configuered}}</th>
+                              <th>{{not_configuered}}</th>
+                          {% endif %}
+                        </tr>
+                      {% endfor %}
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
+        </div>
+        
+        {% endblock %}

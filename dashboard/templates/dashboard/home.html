@@ -1,0 +1,60 @@
+
+        {% extends 'dashboard/template.html' %}
+        
+        {% block content %}
+        
+        <div class="">
+
+            <div class="clearfix"></div>
+            
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                  <div class="x_content">
+
+                    <p>{{h_p_l_b_b}}</p>
+
+                    <div class="table-responsive">
+                      <table class="table table-striped jambo_table bulk_action">
+                        <thead>
+                          <tr class="headings">
+                          
+                            <th class="column-title">{{env}}</th>
+                            <th class="column-title">{{opco}} </th>
+                            <th class="column-title">{{app}}</th>
+                            <th class="column-title">{{no}}</th>
+                            <th class="column-title">{{ts}}</th>
+                            <th class="column-title">{{stat}}</th>
+                            <th class="bulk-actions" colspan="7">
+                              <a class="antoo" style="color:#fff; font-weight:500;">Bulk Actions ( <span class="action-cnt"> </span> ) <i class="fa fa-chevron-down"></i></a>
+                            </th>
+                          </tr>
+                        </thead>
+                        {% if l_f_r != None %}
+                        <tbody>
+                        {% for r in l_f_r %}
+                            <tr class="even pointer">
+                               <td class=" ">{{r.exec_count.env_opco_app.env}}</td>
+                               <td class=" ">{{r.exec_count.env_opco_app.app_list.opco}}</td>
+                               <td class=" ">{{r.exec_count.env_opco_app.app_list.app}}</td>
+                               <td class=" "><a href="/dashboard/build-detail/{{r.id}}"><b><u>{{r.build_detail.build_no}}</u></b></a></td>
+                               <td class=" ">{{r.build_detail.timestamp}}</td>
+                               {% if r.build_detail.status == "SUCCESS" or r.build_detail.status == "STABLE" %}
+                               <td><div class=" bg-green">{{r.build_detail.status}}</div></td>
+                               {% elif r.build_detail.status == "UNSTABLE" %}
+                               <td><div class=" bg-orange">{{r.build_detail.status}}</div></td>
+                               {% elif r.build_detail.status == "FAILURE" %}
+                               <td><div class=" bg-red">{{r.build_detail.status}}</div></td>
+                               {% endif %}
+                            </tr>
+                        {% endfor %}
+                        </tbody>
+                        {% endif %}
+                      </table>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            
+        </div>
+
+        {% endblock %}

@@ -1,0 +1,27 @@
+
+        {% extends 'dashboard/template.html' %}
+        
+        {% block content %}
+        {% load dashboard_extras %}
+
+        <div class="">
+            <div class="clearfix"></div>
+            <div class="col-md-12 col-sm-12 col-xs-12">
+                <div class="x_panel">
+                    <div class="x_content">
+                        <p>{{h_p_l_b_b}}</p>
+                        {% for ppln in pplns %}
+                            <div class="row">
+                                <div class="col-xs-12 text-center">
+                                {{ppln|render_pipeline}}
+
+                                </div>
+                            </div>
+                        {% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+                            
+
+        {% endblock %}
