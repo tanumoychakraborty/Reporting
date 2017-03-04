@@ -12,9 +12,14 @@
                         <p>{{h_p_l_b_b}}</p>
                         {% for ppln in pplns %}
                             <div class="row">
-                                <div class="col-xs-12 text-center">
-                                {{ppln|render_pipeline}}
-
+                                <div class="col-xs-12 x_panel">
+                                    <div class="x_content" 
+                                        <div class="form-horizontal">
+                                            <div class="form-group">
+                                    {{ppln|render_pipeline}}
+                                            </div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         {% endfor %}
