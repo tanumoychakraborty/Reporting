@@ -3,6 +3,7 @@ Created on 13 Jan 2017
 
 @author: tanumoy chakraborty
 '''
+from datetime import datetime
 import multiprocessing
 import time
 
@@ -17,14 +18,27 @@ class j_process(multiprocessing.Process):
         logger.info("Forking process to read jenkins")
         super(j_process, self).__init__()
         self.name = "j_daemon_"
-        self.daemon = True
+        #self.daemon = True
         self.q = q     
         self.thread_list = []
+        self.timeout = 10
         
-    def get_work(self):
+    def get_work_if_time_is_right(self):
         work = self.q.popleft()
-        self.q.append(work)
-        return work           
+        if (datetime.now() - work['stopwatch']).total_seconds() < self.timeout:
+            self.q.append(work)
+            return None
+        else:
+            work['stopwatch'] = datetime.now()
+            self.q.append(work)
+            return work
+#         if (datetime.now() - work['stopwatch']).total_seconds() < self.timeout:
+#             work['stopwatch'] = datetime.now()
+#             self.q.append(work)
+#             return None
+#         else :
+#             self.q.append(work)
+#             return work           
     
     def run(self):
         logger.info("started process j_daemon with id "+ str(self.pid))

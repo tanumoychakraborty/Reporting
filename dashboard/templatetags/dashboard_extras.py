@@ -27,7 +27,7 @@ def render_pipeline_view(dict):
         _pipeline_html += "<div>"
         for col in row:
             if col == None:
-                _pipeline_html += "<button style=\"width:120px; height:50px; color:#FFFFFF; opacity:.1;\">  </button>"
+                _pipeline_html += "<button style=\"width:120px; height:50px; color:#FFFFFF; opacity:0;\">  </button>"
             elif _right_arrow_count != 0:
                 if row[_right_arrow_count-1] != None:
                     _pipeline_html += "<span class=\"glyphicon glyphicon-arrow-right\"></span>" + col
