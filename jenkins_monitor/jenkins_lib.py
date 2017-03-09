@@ -12,8 +12,8 @@ from jenkins_monitor.__main__ import logger
 
 
 legacy_header = {}
-cloude_header = {".crumb": "73098caf3ead848305d409e70cd47469", }
-cloude_host = "jenkins-master.aws.gha.kfplc.com"
+cloude_header = {"Jenkins-Crumb": "0a6673246d0346bb9a2bc53b453fde09", }
+cloude_host = "http://jenkins-ecomm-master.aws.ghanp.kfplc.com"
 python_api = "api/python/"
 fitnesseReport = "fitnesseReport/"
 fitnesseScriptDetail = "Details/"
@@ -69,7 +69,7 @@ def send(url):
     req = Request('POST', url)
     prep = req.prepare()
     if cloude_host in url:
-        prep.headers['.crumb'] = "73098caf3ead848305d409e70cd47469"
+        prep.headers['Jenkins-Crumb'] = "0a6673246d0346bb9a2bc53b453fde09"
     resp = s.send(prep)
     return resp
     

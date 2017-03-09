@@ -15,7 +15,7 @@ import django
 import logging
 import os
 import sys
-
+import time
 
 
 logging.basicConfig(level=logging.INFO)
@@ -67,8 +67,15 @@ if __name__ == '__main__':
 #     from jenkins_monitor.jenkins_pipeline_view import PipelineView
 #     pv = PipelineView("http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/")
 #     pv.replicatePipelineView()
-    from dashboard.models import test_job_app
-    from jenkins_monitor.model_handler import update_pipeline_env
-    j = test_job_app.objects.all()
-    update_pipeline_env("http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/","DEVOPS07")
-    print "hi"
+#     from dashboard.models import test_job_app
+#     from jenkins_monitor.model_handler import update_pipeline_env
+#     j = test_job_app.objects.all()
+#     update_pipeline_env("http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/","DEVOPS07")
+#     print "hi"
+    from jenkins_monitor.jenkins_pipeline_view import PipelineView
+    from dashboard.templatetags.dashboard_extras import render_pipeline_view
+    __p_v__ = PipelineView("http://jenkins-ecomm-master.aws.ghanp.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/")
+    _first_job, stages = __p_v__.replicatePipelineView()
+    
+    x = render_pipeline_view({"stages":stages, "first_job":_first_job})
+    print x
