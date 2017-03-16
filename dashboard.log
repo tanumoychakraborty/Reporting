@@ -1,0 +1,1551 @@
+2017-03-06 10:04:09,634 - __main__ - INFO - Importing Environment from Django
+2017-03-06 10:04:09,872 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 10:04:09,877 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 10:06:42,492 - __main__ - INFO - Importing Environment from Django
+2017-03-06 10:06:42,732 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 10:06:42,737 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 10:07:32,610 - __main__ - INFO - Importing Environment from Django
+2017-03-06 10:07:32,845 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 10:07:32,849 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 10:09:35,427 - __main__ - INFO - Importing Environment from Django
+2017-03-06 10:09:35,667 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 10:09:35,671 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 10:09:35,673 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 10:09:35,673 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 10:09:35,676 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 18553
+2017-03-06 10:09:35,677 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 10:09:35,677 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 10:09:35,677 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:12:01,251 - __main__ - INFO - Importing Environment from Django
+2017-03-06 10:12:01,529 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 10:12:01,533 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 10:12:01,535 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 10:12:01,535 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 10:12:01,537 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 23082
+2017-03-06 10:12:01,538 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 10:12:01,538 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 10:12:01,539 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:12:11,544 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:18:06,728 - __main__ - INFO - Importing Environment from Django
+2017-03-06 10:18:06,930 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 10:18:06,933 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 10:18:06,934 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 10:18:06,935 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 10:18:06,937 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 823
+2017-03-06 10:18:06,938 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 10:18:06,939 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 10:18:06,939 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:19:09,183 - __main__ - INFO - Importing Environment from Django
+2017-03-06 10:19:09,423 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 10:19:09,427 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 10:19:09,428 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 10:19:09,429 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 10:19:09,431 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 2687
+2017-03-06 10:19:09,431 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 10:19:09,431 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 10:19:09,432 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:19:19,447 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:19:29,453 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:19:39,477 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:19:49,486 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:19:59,490 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:20:09,519 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:20:19,530 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:21:19,291 - __main__ - INFO - Importing Environment from Django
+2017-03-06 10:21:19,489 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 10:21:19,493 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 10:38:14,160 - __main__ - INFO - Importing Environment from Django
+2017-03-06 10:38:14,350 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 10:38:14,353 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 10:38:14,354 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 10:38:14,355 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 10:38:14,357 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 1994
+2017-03-06 10:38:14,359 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 10:38:14,359 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 10:38:14,360 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:39:36,556 - __main__ - INFO - Importing Environment from Django
+2017-03-06 10:39:36,749 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 10:39:36,752 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 10:39:36,753 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 10:39:36,753 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 10:39:36,755 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 4210
+2017-03-06 10:39:36,756 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 10:39:36,756 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 10:39:36,756 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:39:46,761 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:53:03,898 - __main__ - INFO - Importing Environment from Django
+2017-03-06 10:53:04,096 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 10:53:04,099 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 10:53:04,100 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 10:53:04,100 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 10:53:04,102 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 26368
+2017-03-06 10:53:04,103 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 10:53:04,103 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 10:53:04,103 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:53:14,108 - jenkins_monitor.__main__ - INFO - All threads are DADE .... The process is exiting
+2017-03-06 10:54:03,058 - __main__ - INFO - Importing Environment from Django
+2017-03-06 10:54:03,255 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 10:54:03,258 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 10:54:03,259 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 10:54:03,259 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 10:54:03,261 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 27985
+2017-03-06 10:54:03,262 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 10:54:03,262 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 10:54:03,262 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:54:13,272 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:55:14,841 - __main__ - INFO - Importing Environment from Django
+2017-03-06 10:55:15,032 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 10:55:15,035 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 10:55:15,036 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 10:55:15,036 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 10:55:15,038 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 29547
+2017-03-06 10:55:15,038 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 10:55:15,039 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 10:55:15,039 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:55:25,052 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:55:35,058 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:55:45,063 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:55:55,064 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 10:56:05,069 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:03:37,656 - __main__ - INFO - Importing Environment from Django
+2017-03-06 11:03:37,855 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 11:03:37,858 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 11:03:37,859 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 11:03:37,859 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 11:03:37,861 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 10389
+2017-03-06 11:03:37,862 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 11:03:37,862 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 11:03:37,862 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:03:47,873 - jenkins_monitor.__main__ - INFO - All threads are DADE .... The process is exiting
+2017-03-06 11:05:26,724 - __main__ - INFO - Importing Environment from Django
+2017-03-06 11:05:26,919 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 11:05:26,923 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 11:05:26,924 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 11:05:26,924 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 11:05:26,926 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 13483
+2017-03-06 11:05:26,927 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 11:05:26,927 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 11:05:26,927 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:05:36,936 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:15:46,529 - __main__ - INFO - Importing Environment from Django
+2017-03-06 11:15:46,722 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 11:15:46,725 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 11:15:46,726 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 11:15:46,726 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 11:15:46,728 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 28933
+2017-03-06 11:15:46,729 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 11:15:46,729 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 11:15:46,729 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:20:29,195 - __main__ - INFO - Importing Environment from Django
+2017-03-06 11:20:29,700 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 11:20:29,709 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 11:20:29,712 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 11:21:25,764 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 11:21:58,796 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 4975
+2017-03-06 11:21:58,799 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 11:21:58,800 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 11:21:58,801 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:22:08,809 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:22:18,820 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:22:28,831 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:22:38,841 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:22:48,850 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:23:53,787 - __main__ - INFO - Importing Environment from Django
+2017-03-06 11:23:53,981 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 11:23:53,985 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 11:23:53,986 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 11:23:53,986 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 11:23:53,988 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 7976
+2017-03-06 11:23:53,989 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 11:23:53,989 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 11:23:53,989 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:28:56,669 - __main__ - INFO - Importing Environment from Django
+2017-03-06 11:28:56,860 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 11:28:56,864 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 11:28:56,865 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 11:28:56,865 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 11:28:56,867 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 15013
+2017-03-06 11:28:56,867 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 11:28:56,867 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 11:28:56,868 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:31:12,237 - __main__ - INFO - Importing Environment from Django
+2017-03-06 11:31:12,748 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 11:31:12,757 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 11:31:12,760 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 11:31:21,481 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 11:32:29,339 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 20079
+2017-03-06 11:32:29,342 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 11:32:29,344 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 11:32:29,346 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:32:58,928 - __main__ - INFO - Importing Environment from Django
+2017-03-06 11:32:59,467 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 11:32:59,477 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 11:32:59,481 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 11:33:07,899 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 11:35:01,793 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 22828
+2017-03-06 11:36:06,005 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 11:36:38,990 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 11:36:38,992 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:36:49,001 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:36:59,008 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:37:09,017 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:37:19,023 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:37:29,034 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:37:39,042 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:37:49,050 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:37:59,059 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:38:09,070 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:38:19,078 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:38:29,083 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:38:39,094 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:38:49,104 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:38:59,114 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:39:09,125 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:39:19,134 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:39:29,144 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:40:02,330 - __main__ - INFO - Importing Environment from Django
+2017-03-06 11:40:02,520 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 11:40:02,524 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 11:40:02,525 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 11:40:02,525 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 11:40:02,527 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 30137
+2017-03-06 11:40:02,528 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 11:40:02,528 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 11:40:02,528 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:44:11,433 - __main__ - INFO - Importing Environment from Django
+2017-03-06 11:44:11,951 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 11:44:11,960 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 11:44:11,963 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 11:44:11,964 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 11:44:12,890 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 3763
+2017-03-06 11:44:12,893 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 11:44:12,894 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 11:44:12,896 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:44:22,906 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:44:32,915 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:44:42,926 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:44:52,936 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:45:02,945 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:45:12,952 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:45:22,961 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:45:32,971 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:45:42,981 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:45:52,991 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:46:03,002 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:46:13,010 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:46:23,019 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:46:33,028 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:46:43,035 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:47:08,139 - __main__ - INFO - Importing Environment from Django
+2017-03-06 11:47:08,667 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 11:47:08,677 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 11:47:08,680 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 11:47:08,681 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 11:47:09,509 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 7602
+2017-03-06 11:47:09,512 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 11:47:09,514 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 11:47:09,515 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:47:19,525 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:47:29,537 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:47:39,548 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:48:13,839 - __main__ - INFO - Importing Environment from Django
+2017-03-06 11:48:14,360 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 11:48:14,368 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 11:48:14,372 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 11:48:14,372 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 11:48:15,201 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 9450
+2017-03-06 11:48:15,204 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 11:48:15,206 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 11:48:15,207 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 11:49:21,749 - __main__ - INFO - Importing Environment from Django
+2017-03-06 11:49:22,250 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 11:49:22,258 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 11:49:31,805 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 11:51:32,327 - __main__ - INFO - Importing Environment from Django
+2017-03-06 11:51:32,519 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 11:51:32,522 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 11:51:53,382 - __main__ - INFO - Importing Environment from Django
+2017-03-06 11:51:53,572 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 11:51:53,575 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 11:52:40,104 - __main__ - INFO - Importing Environment from Django
+2017-03-06 11:52:40,299 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 11:52:40,302 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 11:59:28,768 - __main__ - INFO - Importing Environment from Django
+2017-03-06 12:00:16,831 - __main__ - INFO - Importing Environment from Django
+2017-03-06 12:00:17,019 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 12:00:17,023 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 12:00:17,024 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 12:00:17,024 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 12:00:17,027 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 25779
+2017-03-06 12:00:17,028 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 12:00:17,028 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 12:00:17,029 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 12:16:23,021 - __main__ - INFO - Importing Environment from Django
+2017-03-06 12:16:23,215 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 12:16:23,218 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 12:16:23,219 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 12:16:23,220 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 12:16:23,222 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 14683
+2017-03-06 12:16:23,223 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 12:16:23,223 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 12:16:23,223 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 13:34:43,806 - __main__ - INFO - Importing Environment from Django
+2017-03-06 13:34:44,309 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 13:34:44,320 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 13:34:44,325 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 13:34:44,326 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 13:34:45,150 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 20674
+2017-03-06 13:35:28,661 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 13:35:28,662 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 13:35:28,664 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 13:51:36,580 - __main__ - INFO - Importing Environment from Django
+2017-03-06 13:51:37,093 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 13:51:37,103 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 13:51:37,107 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 13:51:37,107 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 13:51:38,029 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 11107
+2017-03-06 13:51:42,442 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 13:51:42,444 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 13:51:42,445 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 13:51:52,455 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 13:52:02,463 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 13:52:12,472 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 13:52:22,479 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 13:52:32,490 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 13:52:42,501 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 13:52:52,504 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 13:53:02,514 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 13:53:12,522 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 13:53:22,533 - jenkins_monitor.__main__ - INFO - All threads are DADE .... The process is exiting
+2017-03-06 14:14:46,683 - __main__ - INFO - Importing Environment from Django
+2017-03-06 14:15:22,904 - __main__ - INFO - Importing Environment from Django
+2017-03-06 14:15:23,476 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 14:15:23,485 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 14:15:23,489 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 14:16:11,281 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 14:16:18,541 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 11449
+2017-03-06 14:16:43,013 - __main__ - INFO - Importing Environment from Django
+2017-03-06 14:16:43,531 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 14:16:43,540 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 14:16:43,544 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 14:16:49,488 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 14:16:50,628 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 11917
+2017-03-06 14:16:57,469 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 14:16:57,473 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 14:16:57,483 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:17:07,494 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:17:17,505 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:17:27,512 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:17:37,522 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:17:47,530 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:17:57,538 - jenkins_monitor.__main__ - INFO - All threads are DADE .... The process is exiting
+2017-03-06 14:20:09,564 - __main__ - INFO - Importing Environment from Django
+2017-03-06 14:20:09,762 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 14:20:09,765 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 14:20:09,766 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 14:20:09,768 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 14:20:09,771 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 16366
+2017-03-06 14:20:09,772 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 14:20:09,772 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 14:20:09,775 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:20:19,783 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:21:10,327 - __main__ - INFO - Importing Environment from Django
+2017-03-06 14:21:10,843 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 14:21:10,852 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 14:21:10,855 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 14:21:10,856 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 14:21:11,680 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 17668
+2017-03-06 14:21:11,682 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 14:21:11,684 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 14:21:11,685 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:21:21,696 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:21:31,706 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:21:41,715 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:21:51,726 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:22:01,736 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:22:11,746 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:22:21,755 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:22:31,763 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:22:41,773 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:22:57,646 - __main__ - INFO - Importing Environment from Django
+2017-03-06 14:22:58,149 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 14:22:58,170 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 14:22:58,179 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 14:23:18,213 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 14:27:39,846 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 26215
+2017-03-06 14:27:39,848 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 14:27:39,850 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 14:27:39,851 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:27:49,856 - jenkins_monitor.__main__ - INFO - All threads are DADE .... The process is exiting
+2017-03-06 14:29:36,855 - __main__ - INFO - Importing Environment from Django
+2017-03-06 14:29:37,053 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 14:29:37,056 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 14:29:37,057 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 14:29:37,057 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 14:29:37,060 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 28813
+2017-03-06 14:29:37,060 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 14:29:37,061 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 14:29:37,061 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:32:58,626 - __main__ - INFO - Importing Environment from Django
+2017-03-06 14:32:58,822 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 14:32:58,826 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 14:32:58,826 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 14:32:58,828 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 14:32:58,831 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 695
+2017-03-06 14:32:58,831 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 14:32:58,832 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 14:32:58,832 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:32:58,835 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:32:59,465 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:00,089 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:00,705 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:01,323 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:01,939 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:02,556 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:03,173 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:03,791 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:04,405 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:05,027 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:05,679 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:06,309 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:06,922 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:07,554 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:08,166 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:08,780 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:08,841 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:33:09,402 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:10,023 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:10,632 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:11,252 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:11,869 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:12,486 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:21,006 - __main__ - INFO - Importing Environment from Django
+2017-03-06 14:33:21,199 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 14:33:21,203 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 14:33:21,204 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 14:33:21,204 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 14:33:21,206 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 1257
+2017-03-06 14:33:21,207 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 14:33:21,207 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 14:33:21,207 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:33:21,208 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:21,848 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:22,464 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:23,069 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:23,682 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:24,294 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:24,907 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:25,518 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:26,132 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:26,740 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:27,350 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:27,988 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:28,597 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:29,207 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:29,872 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:33:30,521 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:31,621 - __main__ - INFO - Importing Environment from Django
+2017-03-06 14:37:31,872 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 14:37:31,876 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 14:37:31,877 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 14:37:31,877 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 14:37:31,879 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 6756
+2017-03-06 14:37:31,880 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 14:37:31,880 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 14:37:31,880 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:37:31,881 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:31,881 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:32,521 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:32,522 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:33,139 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:33,139 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:33,761 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:33,761 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:34,384 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:34,385 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:35,032 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:35,032 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:35,676 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:35,676 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:36,295 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:36,295 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:36,925 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:36,925 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:37,548 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:37,548 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:38,181 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:38,181 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:38,843 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:38,843 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:39,518 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:39,518 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:40,142 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:40,142 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:41,066 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:41,067 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:41,732 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:41,732 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:41,889 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:37:42,356 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:42,357 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:42,991 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:42,991 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:43,616 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:43,616 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:37:44,233 - jenkins_monitor.__main__ - INFO -  ------ False
+2017-03-06 14:37:44,234 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:34,310 - __main__ - INFO - Importing Environment from Django
+2017-03-06 14:40:34,499 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 14:40:34,502 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 14:40:34,502 - jenkins_monitor.__main__ - INFO - thread name ------- stopwatch # 1
+2017-03-06 14:40:34,503 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 14:40:34,503 - jenkins_monitor.__main__ - INFO - thread name ------- stopwatch # 2
+2017-03-06 14:40:34,504 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 14:40:34,505 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 11081
+2017-03-06 14:40:34,506 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 14:40:34,506 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 14:40:34,506 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:40:34,507 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:34,507 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:35,142 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:35,142 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:35,771 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:35,772 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:36,409 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:36,410 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:37,074 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:37,074 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:37,692 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:37,692 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:38,320 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:38,321 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:38,941 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:38,942 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:39,556 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:39,556 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:40,173 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:40,173 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:40,800 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:40,800 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:41,437 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:41,437 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:42,052 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:42,053 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:42,677 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:42,678 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:43,295 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:43,295 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:43,916 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:43,917 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:44,516 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:40:44,527 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:44,527 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:45,143 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:45,143 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:45,765 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:45,765 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:46,393 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:46,393 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:47,030 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:47,030 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:47,652 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:47,652 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:48,283 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:48,283 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:48,906 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:48,906 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:49,524 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:49,524 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:50,139 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:50,140 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:50,761 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:50,761 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:51,374 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:51,374 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:51,997 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:51,997 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:52,614 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:52,614 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:53,243 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:53,243 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:53,859 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:53,860 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:54,473 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:54,473 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:54,527 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:40:55,098 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:55,098 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:55,711 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:55,711 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:56,396 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:56,396 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:57,020 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:57,020 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:57,642 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:57,643 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:58,265 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:58,265 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:58,879 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:40:58,880 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:40:59,491 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:40:59,491 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:00,114 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:00,115 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:00,738 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:00,738 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:01,353 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:01,353 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:02,005 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:02,005 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:03,036 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:03,036 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:03,652 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:03,652 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:04,275 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:04,275 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:04,536 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:41:04,881 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:04,881 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:05,500 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:05,500 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:06,137 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:06,137 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:06,766 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:06,766 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:07,398 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:07,398 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:08,023 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:08,023 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:08,640 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:08,640 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:09,254 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:09,254 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:09,878 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:09,878 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:10,502 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:10,503 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:11,122 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:11,122 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:11,754 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:11,755 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:12,368 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:12,369 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:12,997 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:12,997 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:13,609 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:13,609 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:14,239 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:14,240 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:14,543 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:41:14,870 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:14,870 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:15,494 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:15,494 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:16,124 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:16,125 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:16,746 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:16,746 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:17,370 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:17,370 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:17,996 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:17,997 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:18,619 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:18,620 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:19,247 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:19,247 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:19,880 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:19,881 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:20,495 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:20,495 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:21,120 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:21,120 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:21,757 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:21,757 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:22,382 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:22,383 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:23,012 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:23,013 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:23,628 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:23,628 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:24,236 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:24,236 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:24,553 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:41:24,859 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:24,860 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:25,472 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:25,472 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:26,132 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:26,132 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:26,798 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:26,798 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:27,418 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:27,418 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:28,038 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:28,039 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:28,656 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:28,657 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:29,274 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:29,274 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:29,896 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:29,896 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:30,512 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:30,512 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:31,137 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:31,138 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:31,753 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:31,754 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:32,370 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:32,370 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:32,983 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:32,984 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:33,692 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:33,693 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:34,315 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:34,315 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:34,562 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:41:34,944 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:34,944 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:35,570 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:35,571 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:36,185 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:36,185 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:36,806 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:36,806 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:37,420 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:37,420 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:38,054 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:38,055 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:38,664 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:38,665 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:39,280 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:41:39,280 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:41:39,902 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 1
+2017-03-06 14:41:39,903 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:07,403 - __main__ - INFO - Importing Environment from Django
+2017-03-06 14:42:07,602 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 14:42:07,605 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 14:42:07,606 - jenkins_monitor.__main__ - INFO - thread name ------- stopwatch # 1
+2017-03-06 14:42:07,607 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 14:42:07,607 - jenkins_monitor.__main__ - INFO - thread name ------- stopwatch # 2
+2017-03-06 14:42:07,607 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 14:42:07,609 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 12770
+2017-03-06 14:42:07,610 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 14:42:07,610 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 14:42:07,610 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:42:07,610 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:07,611 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:08,232 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:08,232 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:08,856 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:08,857 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:09,473 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:09,473 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:10,098 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:10,099 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:10,713 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:10,713 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:11,337 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:11,337 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:11,970 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:11,970 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:12,595 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:12,596 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:13,226 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:13,226 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:13,839 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:13,840 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:14,479 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:14,479 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:15,112 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:15,113 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:15,743 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:15,743 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:16,371 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:16,372 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:16,992 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:16,992 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:17,613 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:17,614 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:17,618 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:42:18,227 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:18,227 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:18,846 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:18,847 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:19,469 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:19,469 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:20,093 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:20,093 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:20,728 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:20,729 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:21,350 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:21,350 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:21,966 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:21,967 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:22,584 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:22,584 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:23,214 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:23,214 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:23,837 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:23,837 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:24,480 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:24,480 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:25,102 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:25,102 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:25,727 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:25,727 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:26,353 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:26,353 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:27,010 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:27,011 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:27,628 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:42:27,636 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:27,636 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:28,304 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:28,305 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:28,922 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:28,922 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:29,661 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:29,662 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:30,283 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:30,283 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:30,901 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:30,901 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:31,524 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:31,524 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:32,144 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:32,145 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:32,775 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:32,775 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:33,439 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:33,440 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:34,069 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:34,069 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:34,738 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:34,738 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:35,361 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:35,361 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:35,974 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:35,974 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:36,922 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:36,922 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:37,540 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:37,541 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:37,638 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:42:38,159 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:38,160 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:39,051 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:39,051 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:39,677 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:39,677 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:40,300 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:40,300 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:40,914 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:40,915 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:41,539 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:41,539 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:42,179 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:42,179 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:42,801 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:42,801 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:43,439 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:43,439 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:44,060 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:44,061 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:44,680 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:44,680 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:45,319 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:45,319 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:45,945 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:45,945 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:46,601 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:46,601 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:47,293 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:47,293 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:47,646 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:42:47,969 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:47,969 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:48,590 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:48,591 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:49,240 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:49,240 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:49,853 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:49,853 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:50,466 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:50,467 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:51,096 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:51,096 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:51,720 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:51,720 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:52,489 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:52,489 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:53,111 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:53,111 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:53,730 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:53,731 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:54,345 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:54,345 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:54,957 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:54,957 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:55,569 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:55,569 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:56,201 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:56,201 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:56,824 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:56,825 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:57,457 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:57,458 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:57,654 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:42:58,075 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:58,076 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:58,684 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:58,685 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:59,306 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:42:59,306 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:42:59,918 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:42:59,918 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:00,530 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:00,531 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:01,166 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:01,167 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:01,916 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:01,916 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:02,551 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:02,552 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:03,168 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:03,168 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:03,863 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:03,864 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:04,594 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:04,594 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:05,226 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:05,227 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:05,849 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:05,849 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:06,479 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:06,479 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:07,093 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:07,093 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:07,660 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:43:07,711 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:07,711 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:08,322 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:08,322 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:08,946 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:08,946 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:09,558 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:09,559 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:10,183 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:10,184 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:10,798 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:10,798 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:11,408 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:11,408 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:12,046 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:12,047 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:12,660 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:12,660 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:13,282 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:13,283 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:13,908 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:13,908 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:14,522 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:14,522 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:15,146 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:15,147 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:15,776 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:15,776 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:16,391 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:16,391 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:17,004 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:17,004 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:17,627 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:17,628 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:17,668 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:43:18,240 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:18,241 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:18,865 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:18,865 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:19,488 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:19,488 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:20,115 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:20,116 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:20,746 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:20,746 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:21,357 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:21,357 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:21,971 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:21,971 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:22,636 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:22,636 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:23,288 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:23,288 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:23,922 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:23,923 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:24,533 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:24,533 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:25,146 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:25,146 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:25,763 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:25,763 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:26,376 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:26,377 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:27,010 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:27,010 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:27,624 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:27,624 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:27,678 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:43:28,287 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:28,287 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:28,939 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:28,940 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:29,592 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:29,593 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:30,216 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:30,216 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:30,831 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:30,831 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:31,458 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:31,460 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:32,090 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:32,091 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:32,712 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:32,712 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:33,346 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:33,346 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:33,999 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:33,999 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:34,623 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:34,624 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:35,252 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:35,252 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:35,871 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:35,871 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:36,492 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:36,493 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:37,117 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:37,117 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:37,686 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:43:37,731 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:37,732 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:38,352 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:38,352 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:38,968 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:38,969 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:39,590 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:39,590 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:40,206 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:40,207 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:40,864 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:40,864 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:41,511 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:41,512 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:42,151 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:42,151 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:42,775 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:42,778 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:43,405 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:43,406 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:44,140 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:44,140 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:44,782 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:44,782 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:45,399 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:45,399 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:46,024 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:46,025 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:46,698 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:46,698 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:47,341 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:47,342 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:47,694 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:43:47,953 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:47,954 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:48,568 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:48,568 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:49,196 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:49,196 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:49,816 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:49,816 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:50,446 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:50,447 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:51,068 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:51,069 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:51,679 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:51,679 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:52,294 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:52,295 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:52,920 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:52,920 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:53,546 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:53,546 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:54,193 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:54,193 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:54,826 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:54,826 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:55,463 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:55,463 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:56,084 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:56,084 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:56,698 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:56,698 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:57,312 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:57,313 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:57,696 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:43:57,929 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:57,930 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:58,546 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:58,546 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:59,165 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:43:59,165 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:43:59,781 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:43:59,782 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:00,418 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:00,418 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:03,496 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:03,496 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:04,112 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:04,112 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:04,726 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:04,726 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:05,350 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:05,350 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:05,964 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:05,964 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:06,587 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:06,587 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:07,285 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:07,285 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:07,706 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:44:07,974 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:07,974 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:08,596 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:08,597 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:09,210 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:09,210 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:09,835 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:09,836 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:10,462 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:10,463 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:11,086 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:11,086 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:11,706 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:11,706 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:12,322 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:12,323 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:12,937 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:12,937 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:13,562 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:13,562 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:14,181 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:14,181 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:14,806 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:14,806 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:15,437 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:15,438 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:16,062 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:16,062 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:16,687 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:16,687 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:17,303 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:17,303 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:17,715 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:44:17,927 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:17,927 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:18,570 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:18,571 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:19,206 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:19,206 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:19,827 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:19,828 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:20,450 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:20,450 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:21,080 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:21,080 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:21,691 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:21,691 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:22,313 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:22,314 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:22,940 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:22,940 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:23,565 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:23,566 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:24,178 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:24,179 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:24,797 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:24,797 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:25,408 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:25,409 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:26,022 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:26,022 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:26,636 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:26,636 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:27,261 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:27,261 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:27,724 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:44:27,872 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:27,872 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:28,495 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:28,495 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:29,139 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:29,140 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:29,754 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:29,754 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:30,367 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:30,367 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:30,988 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:30,988 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:31,609 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:31,610 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:32,226 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:32,226 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:32,849 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:32,849 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:33,471 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:33,471 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:34,118 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:34,118 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:34,733 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:34,734 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:35,353 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:35,353 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:35,970 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:35,970 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:36,644 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:36,645 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:37,318 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:37,318 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:37,734 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:44:37,995 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:37,995 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:38,693 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:38,694 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:39,360 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:39,360 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:43,309 - __main__ - INFO - Importing Environment from Django
+2017-03-06 14:44:43,545 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 14:44:43,548 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 14:44:43,549 - jenkins_monitor.__main__ - INFO - thread name ------- stopwatch # 1
+2017-03-06 14:44:43,550 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 14:44:43,550 - jenkins_monitor.__main__ - INFO - thread name ------- stopwatch # 2
+2017-03-06 14:44:43,550 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 14:44:43,553 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 16183
+2017-03-06 14:44:43,554 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 14:44:43,554 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 14:44:43,555 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:44:43,555 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:43,555 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:44,170 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:44,170 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:44,792 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:44,793 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:45,405 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:45,406 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:46,898 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:46,898 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:47,518 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:47,519 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:48,167 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:48,167 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:48,920 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:48,920 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:49,553 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:49,554 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:50,186 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:50,186 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:50,803 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:50,803 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:51,455 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:51,455 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:52,074 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:52,075 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:52,697 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:52,697 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:53,321 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:53,322 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:53,561 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 14:44:54,042 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:54,043 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:54,731 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:54,732 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:55,347 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:55,347 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:55,971 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:55,972 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:56,602 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:56,602 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:57,223 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:57,224 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:57,857 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:57,857 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:58,516 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:44:58,516 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:44:59,156 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:44:59,156 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:45:00,015 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:45:00,015 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:45:00,630 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:45:00,630 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:45:01,262 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 14:45:01,263 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 14:45:02,215 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 14:45:02,216 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:08:51,389 - __main__ - INFO - Importing Environment from Django
+2017-03-06 15:08:51,885 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 15:08:51,894 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 15:08:51,895 - jenkins_monitor.__main__ - INFO - thread name ------- stopwatch # 1
+2017-03-06 15:08:51,898 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 15:08:51,899 - jenkins_monitor.__main__ - INFO - thread name ------- stopwatch # 2
+2017-03-06 15:10:04,001 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 15:10:08,647 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 15483
+2017-03-06 15:10:08,648 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 15:10:08,649 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 15:10:08,649 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 15:10:08,651 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:10:18,658 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 15:10:28,666 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 15:10:33,741 - jenkins_monitor.__main__ - INFO - count ------- 75
+2017-03-06 15:10:38,677 - jenkins_monitor.__main__ - INFO - All threads are DADE .... The process is exiting
+2017-03-06 15:10:57,198 - __main__ - INFO - Importing Environment from Django
+2017-03-06 15:10:57,388 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 15:10:57,391 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 15:10:57,391 - jenkins_monitor.__main__ - INFO - thread name ------- stopwatch # 1
+2017-03-06 15:10:57,392 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 15:10:57,393 - jenkins_monitor.__main__ - INFO - thread name ------- stopwatch # 2
+2017-03-06 15:10:57,393 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 15:10:57,395 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 16766
+2017-03-06 15:10:57,395 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 15:10:57,396 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 15:12:11,991 - __main__ - INFO - Importing Environment from Django
+2017-03-06 15:12:12,193 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 15:12:12,197 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 15:12:12,197 - jenkins_monitor.__main__ - INFO - thread name ------- stopwatch # 1
+2017-03-06 15:12:12,198 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 15:12:12,198 - jenkins_monitor.__main__ - INFO - thread name ------- stopwatch # 2
+2017-03-06 15:12:12,198 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 15:12:12,200 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 18015
+2017-03-06 15:12:12,201 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 15:12:12,201 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 15:12:12,201 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 15:12:12,201 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:12,202 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:12,836 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:12,836 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:13,466 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:13,466 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:14,081 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:14,081 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:14,697 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:14,698 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:15,328 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:15,328 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:15,941 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:15,942 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:16,562 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:16,562 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:17,185 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:17,185 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:17,796 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:17,796 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:18,427 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:18,427 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:19,074 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:19,074 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:19,695 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:19,695 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:20,319 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:20,320 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:20,932 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:20,932 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:21,550 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:21,550 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:22,166 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:22,166 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:22,209 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 15:12:22,780 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:22,781 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:23,410 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:23,410 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:24,024 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:24,024 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:24,650 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:24,650 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:25,261 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:25,261 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:25,883 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:25,883 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:26,513 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:26,514 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:27,127 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:27,128 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:27,752 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:27,752 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:28,372 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:28,372 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:28,995 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:28,996 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:29,628 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:29,628 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:30,240 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:30,241 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:30,855 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:30,855 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:31,477 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:31,477 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:32,098 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:32,098 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:32,213 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 15:12:32,714 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:32,715 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:33,326 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:33,327 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:33,937 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:33,941 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:34,564 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:34,564 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:35,181 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:35,181 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:35,810 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:35,811 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:36,434 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:36,434 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:37,048 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:37,048 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:37,670 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:37,670 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:38,291 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:38,292 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:38,916 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:38,916 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:39,533 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:39,534 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:40,142 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:40,142 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:40,761 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:40,761 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:41,391 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:41,391 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:42,007 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:42,007 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:42,223 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 15:12:42,634 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:42,635 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:43,246 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:43,246 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:43,862 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:43,862 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:44,473 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:44,473 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:45,085 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:45,085 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:45,698 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:45,699 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:46,315 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:46,316 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:46,940 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:46,940 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:47,565 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:47,566 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:48,186 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:48,186 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:48,798 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:48,798 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:49,420 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:49,421 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:50,043 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:50,044 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:50,665 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:50,666 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:51,277 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:51,277 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:51,897 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:51,898 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:52,227 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 15:12:52,512 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:52,512 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:53,149 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:53,149 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:53,761 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:53,761 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:54,381 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:54,381 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:55,005 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:55,005 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:55,618 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:55,618 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:56,244 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:56,244 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:56,874 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:56,874 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:57,491 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:57,492 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:58,109 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:58,109 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:58,722 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:12:58,723 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:12:59,422 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:12:59,423 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:13:00,147 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:13:00,148 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:13:00,888 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:13:00,889 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:13:01,578 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:13:01,578 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:13:02,237 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 15:13:02,279 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:13:02,280 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:13:03,078 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:13:03,078 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:13:03,782 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:13:03,783 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:13:04,470 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:13:04,470 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:13:05,252 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:13:05,253 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:13:06,029 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:13:06,029 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:13:06,878 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:13:06,878 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:13:07,638 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:13:07,639 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:13:08,418 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:13:08,419 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:13:09,390 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:13:09,391 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:13:10,289 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:13:10,289 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:13:11,163 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:13:11,164 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:13:11,959 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:13:11,959 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:13:12,241 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 15:13:12,883 - jenkins_monitor.__main__ - INFO -  alive ------ False name ---------- stopwatch # 2
+2017-03-06 15:13:12,883 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:13:13,859 - jenkins_monitor.__main__ - INFO -  alive ------ True name ---------- stopwatch # 1
+2017-03-06 15:13:13,859 - jenkins_monitor.__main__ - INFO - count ------- 0
+2017-03-06 15:27:10,269 - __main__ - INFO - Importing Environment from Django
+2017-03-06 15:27:10,466 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 15:27:10,470 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 15:27:10,470 - jenkins_monitor.__main__ - INFO - thread name ------- stopwatch # 1
+2017-03-06 15:27:10,471 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 15:27:10,471 - jenkins_monitor.__main__ - INFO - thread name ------- stopwatch # 2
+2017-03-06 15:27:10,471 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 15:27:10,473 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 4464
+2017-03-06 15:27:10,474 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 15:27:10,474 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 15:27:10,474 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 15:27:20,484 - jenkins_monitor.__main__ - INFO - All threads are DADE .... The process is exiting
+2017-03-06 15:27:54,199 - __main__ - INFO - Importing Environment from Django
+2017-03-06 15:27:54,395 - jenkins_monitor.__main__ - INFO - Reading all job list
+2017-03-06 15:27:54,398 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/BQ/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for AFA in queue
+2017-03-06 15:27:54,399 - jenkins_monitor.__main__ - INFO - thread name ------- stopwatch # 1
+2017-03-06 15:27:54,400 - jenkins_monitor.__main__ - INFO - Putting http://jenkins-master.aws.gha.kfplc.com:8080/job/ATG/job/Build/job/Casto/job/Pipelines/job/develop_resource/job/TestATG_AFA-Flow/ for CASTO_AGENT in queue
+2017-03-06 15:27:54,400 - jenkins_monitor.__main__ - INFO - thread name ------- stopwatch # 2
+2017-03-06 15:27:54,400 - jenkins_monitor.__main__ - INFO - Forking process to read jenkins
+2017-03-06 15:27:54,402 - jenkins_monitor.__main__ - INFO - started process j_daemon with id 5829
+2017-03-06 15:27:54,402 - jenkins_monitor.__main__ - INFO - Creating thread pool of size 1
+2017-03-06 15:27:54,403 - jenkins_monitor.__main__ - INFO - firing thread thread_0
+2017-03-06 15:27:54,403 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 15:28:04,412 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 15:28:14,423 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 15:28:24,429 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
+2017-03-06 15:28:34,451 - jenkins_monitor.__main__ - INFO - Checking heartbeat .... All threads are alive
